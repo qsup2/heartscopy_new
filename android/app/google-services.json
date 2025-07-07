@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "462148598574",
+    "project_id": "heartscopy-c5dae",
+    "storage_bucket": "heartscopy-c5dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462148598574:android:c1e0b1276aa9044281d8bf",
+        "android_client_info": {
+          "package_name": "com.heartscopy.heartscopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462148598574-c2j32prdipn5v6mbmpvbsfij3boo0ffr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heartscopy.heartscopy",
+            "certificate_hash": "4dd569c8074eecf879fcd9def546609a4767ac63"
+          }
+        },
+        {
+          "client_id": "462148598574-dcvspemogku4osj4o4pk51pbcvd0odsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heartscopy.heartscopy",
+            "certificate_hash": "a03f5b3074d08a97a65559b302ac4911d531c259"
+          }
+        },
+        {
+          "client_id": "462148598574-kvu54btdgu2461029b1tlre6hvlbtk6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ewW_OnoKOGEPIwIK1HaslCpjW7Yrw4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462148598574-kvu54btdgu2461029b1tlre6hvlbtk6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462148598574-dr78tbebf3vg6dttk2p73aubcr7dtkav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heartscopy.heartscopy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462148598574:android:e7a49edbf6a5be8781d8bf",
+        "android_client_info": {
+          "package_name": "com.heartscopy.heartscopy_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462148598574-kvu54btdgu2461029b1tlre6hvlbtk6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ewW_OnoKOGEPIwIK1HaslCpjW7Yrw4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462148598574-kvu54btdgu2461029b1tlre6hvlbtk6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462148598574-dr78tbebf3vg6dttk2p73aubcr7dtkav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heartscopy.heartscopy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
